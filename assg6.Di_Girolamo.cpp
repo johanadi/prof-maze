@@ -1,5 +1,4 @@
-// Johana Di Girolamo [A04859266].
-// Used my Slip Days!
+// Johana Di Girolamo 
 // Term Project
 
 #include<iostream>
